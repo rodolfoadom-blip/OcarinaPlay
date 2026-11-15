@@ -2,5 +2,7 @@
   "name": "Ocarina do Tempo — Simulador Interativo",
   "description": "Simulador interativo da Ocarina de The Legend of Zelda com áudios reais, controlo por teclado e guia de melodias.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
