@@ -94,10 +94,10 @@ export const OCARINA_NOTES: OcarinaNote[] = [
       arrows: { code: 'KeyZ', label: 'Z' },
     },
     audioFiles: {
-      short: '/assets/aistudio/OOT_Notes_Ocarina_D_short_2833dd2e.wav',
-      med: '/assets/aistudio/OOT_Notes_Ocarina_D_med_1a7a05c3.wav',
-      long: '/assets/aistudio/OOT_Notes_Ocarina_D_long_27d24174.wav',
-      loop: '/assets/aistudio/OOT_Notes_Ocarina_D_loop_7e726e09.wav',
+      short: 'assets/aistudio/OOT_Notes_Ocarina_D_short_2833dd2e.wav',
+      med: 'assets/aistudio/OOT_Notes_Ocarina_D_med_1a7a05c3.wav',
+      long: 'assets/aistudio/OOT_Notes_Ocarina_D_long_27d24174.wav',
+      loop: 'assets/aistudio/OOT_Notes_Ocarina_D_loop_7e726e09.wav',
     },
   },
   {
@@ -115,10 +115,10 @@ export const OCARINA_NOTES: OcarinaNote[] = [
       arrows: { code: 'ArrowDown', label: '↓' },
     },
     audioFiles: {
-      short: '/assets/aistudio/OOT_Notes_Ocarina_F_short_e99759c7.wav',
-      med: '/assets/aistudio/OOT_Notes_Ocarina_F_med_648b703f.wav',
-      long: '/assets/aistudio/OOT_Notes_Ocarina_F_long_dd52ce1e.wav',
-      loop: '/assets/aistudio/OOT_Notes_Ocarina_F_loop_084e24ef.wav',
+      short: 'assets/aistudio/OOT_Notes_Ocarina_F_short_e99759c7.wav',
+      med: 'assets/aistudio/OOT_Notes_Ocarina_F_med_648b703f.wav',
+      long: 'assets/aistudio/OOT_Notes_Ocarina_F_long_dd52ce1e.wav',
+      loop: 'assets/aistudio/OOT_Notes_Ocarina_F_loop_084e24ef.wav',
     },
   },
   {
@@ -136,10 +136,10 @@ export const OCARINA_NOTES: OcarinaNote[] = [
       arrows: { code: 'ArrowRight', label: '→' },
     },
     audioFiles: {
-      short: '/assets/aistudio/OOT_Notes_Ocarina_A_short_4b7f2dcf.wav',
-      med: '/assets/aistudio/OOT_Notes_Ocarina_A_med_d76bbcc2.wav',
-      long: '/assets/aistudio/OOT_Notes_Ocarina_A_long_7ff22058.wav',
-      loop: '/assets/aistudio/OOT_Notes_Ocarina_A_loop_10692fc1.wav',
+      short: 'assets/aistudio/OOT_Notes_Ocarina_A_short_4b7f2dcf.wav',
+      med: 'assets/aistudio/OOT_Notes_Ocarina_A_med_d76bbcc2.wav',
+      long: 'assets/aistudio/OOT_Notes_Ocarina_A_long_7ff22058.wav',
+      loop: 'assets/aistudio/OOT_Notes_Ocarina_A_loop_10692fc1.wav',
     },
   },
   {
@@ -157,10 +157,10 @@ export const OCARINA_NOTES: OcarinaNote[] = [
       arrows: { code: 'ArrowLeft', label: '←' },
     },
     audioFiles: {
-      short: '/assets/aistudio/OOT_Notes_Ocarina_B_short_3c96b7c0.wav',
-      med: '/assets/aistudio/OOT_Notes_Ocarina_B_med_5d7e3f2c.wav',
-      long: '/assets/aistudio/OOT_Notes_Ocarina_B_long_baf27951.wav',
-      loop: '/assets/aistudio/OOT_Notes_Ocarina_B_loop_5dd60cff.wav',
+      short: 'assets/aistudio/OOT_Notes_Ocarina_B_short_3c96b7c0.wav',
+      med: 'assets/aistudio/OOT_Notes_Ocarina_B_med_5d7e3f2c.wav',
+      long: 'assets/aistudio/OOT_Notes_Ocarina_B_long_baf27951.wav',
+      loop: 'assets/aistudio/OOT_Notes_Ocarina_B_loop_5dd60cff.wav',
     },
   },
   {
@@ -178,10 +178,10 @@ export const OCARINA_NOTES: OcarinaNote[] = [
       arrows: { code: 'ArrowUp', label: '↑' },
     },
     audioFiles: {
-      short: '/assets/aistudio/OOT_Notes_Ocarina_D2_short_70bcb094.wav',
-      med: '/assets/aistudio/OOT_Notes_Ocarina_D2_med_0342b199.wav',
-      long: '/assets/aistudio/OOT_Notes_Ocarina_D2_long_7357c54d.wav',
-      loop: '/assets/aistudio/OOT_Notes_Ocarina_D2_loop_27c55ee4.wav',
+      short: 'assets/aistudio/OOT_Notes_Ocarina_D2_short_70bcb094.wav',
+      med: 'assets/aistudio/OOT_Notes_Ocarina_D2_med_0342b199.wav',
+      long: 'assets/aistudio/OOT_Notes_Ocarina_D2_long_7357c54d.wav',
+      loop: 'assets/aistudio/OOT_Notes_Ocarina_D2_loop_27c55ee4.wav',
     },
   },
 ];
